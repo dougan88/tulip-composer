@@ -1,8 +1,6 @@
 from src.Bouquet import Bouquet
 from src.Composer import Composer
 from src.Flowers import Flowers
-from collections import Counter
-import re
 
 if __name__ == '__main__':
     file = open('sample.txt', 'r')
